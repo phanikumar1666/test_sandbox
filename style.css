@@ -1,0 +1,10 @@
+.red {
+  border: 1px solid red;
+  background: blue;
+}
+.blue {
+  border: 2px solid blue;
+  background: black;
+  color: white;
+  flex: 1;
+}
